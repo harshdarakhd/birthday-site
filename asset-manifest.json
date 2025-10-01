@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/birthday-site/static/css/main.1acc05cc.css",
+    "main.js": "/birthday-site/static/js/main.3770b38c.js",
+    "static/media/A.mpeg": "/birthday-site/static/media/A.531a11e877b738629942.mpeg",
+    "static/media/V2.mp4": "/birthday-site/static/media/V2.965bff2714cac410e0d3.mp4",
+    "static/media/a2.m4a": "/birthday-site/static/media/a2.1391447a2daf82e76853.m4a",
+    "static/media/V1.mp4": "/birthday-site/static/media/V1.29d43f7354b4bef8aa84.mp4",
+    "static/media/U1.jpeg": "/birthday-site/static/media/U1.4f68f1fb4f6c74ab0c64.jpeg",
+    "static/media/U7.jpeg": "/birthday-site/static/media/U7.fc2837f75db6890a99f6.jpeg",
+    "static/media/U10.jpeg": "/birthday-site/static/media/U10.9773b0dce399eebbba34.jpeg",
+    "static/media/U2.jpeg": "/birthday-site/static/media/U2.0be61e761a7c805adea3.jpeg",
+    "static/media/U11.jpeg": "/birthday-site/static/media/U11.d3595847923418cc5844.jpeg",
+    "static/media/D4.jpeg": "/birthday-site/static/media/D4.3e8f2854bc8e969b37ae.jpeg",
+    "static/media/D2.jpeg": "/birthday-site/static/media/D2.38499fe83ee13fc7c716.jpeg",
+    "static/media/U3.jpeg": "/birthday-site/static/media/U3.5686b206e71f2a7d5ad1.jpeg",
+    "static/media/D3.jpeg": "/birthday-site/static/media/D3.298cc307d2023b142dbe.jpeg",
+    "static/media/D1.jpeg": "/birthday-site/static/media/D1.666b2adbc434e1279a1b.jpeg",
+    "static/media/S2.jpeg": "/birthday-site/static/media/S2.32bae92b12f5665534ff.jpeg",
+    "static/media/U4.jpeg": "/birthday-site/static/media/U4.b9aa681842d21854220c.jpeg",
+    "static/media/S5.jpeg": "/birthday-site/static/media/S5.44b13e2bc253a30507ee.jpeg",
+    "static/media/U9.jpeg": "/birthday-site/static/media/U9.432d93e1eaa2e1d022d5.jpeg",
+    "static/media/U8.jpeg": "/birthday-site/static/media/U8.079f2b9cbf3d6033240b.jpeg",
+    "index.html": "/birthday-site/index.html",
+    "main.1acc05cc.css.map": "/birthday-site/static/css/main.1acc05cc.css.map",
+    "main.3770b38c.js.map": "/birthday-site/static/js/main.3770b38c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1acc05cc.css",
+    "static/js/main.3770b38c.js"
+  ]
+}
